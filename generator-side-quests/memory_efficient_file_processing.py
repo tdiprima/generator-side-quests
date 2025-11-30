@@ -14,7 +14,7 @@ def gen_lines(filename):
 
 
 # Usage
-for item in gen_lines("bigfile.csv"):
+for item in gen_lines("../data/bigfile.csv"):
     print(item)
 
 # Uncomment the following code to see the memory-intensive approach

@@ -12,6 +12,6 @@ def image_stream(folder):
 
 
 # Usage
-for img in image_stream("images"):
+for img in image_stream("../images"):
     print(img.size)
     img.close()  # Close images after use

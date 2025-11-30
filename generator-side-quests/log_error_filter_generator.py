@@ -15,5 +15,5 @@ def error_lines(path):
 
 
 # Usage
-for error in error_lines("logs.txt"):
+for error in error_lines("../data/logs.txt"):
     print(process(error))
