@@ -1,0 +1,9 @@
+[project]
+name = "just-vibing-with-generators"
+version = "0.1.0"
+description = "This is just my personal sandbox, don't look too hard"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pillow>=12.0.0",
+]
