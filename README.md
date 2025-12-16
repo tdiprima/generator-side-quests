@@ -1,4 +1,4 @@
-# Just vibing with generators
+# Generator side-quests 🏰 🛡️ ⚔️ 
 
 This is basically my little playground for messing around with Python generators and seeing how far I can push them without my laptop crying. Each file is just a tiny demo or experiment—nothing fancy, just stuff I wanted to try out or remind myself how to do later.
 
